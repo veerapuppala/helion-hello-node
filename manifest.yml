@@ -7,8 +7,8 @@ applications:
 # We have created a delivery pipeline
 applications:
 # We have reserved a name/route for your app
-- name: test-nodejs
-  host: test-nodejs
+- name: helion-hello-node
+  host: helion-hello-node
   domain: murali1.domain.com.muralikoripally.stacktest.io
   # We have provisioned and bound services
   services: 
