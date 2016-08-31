@@ -9,6 +9,6 @@ applications:
 # We have reserved a name/route for your app
 - name: helion-hello-node
   host: helion-hello-node
-  domain: murali1.domain.com.muralikoripally.stacktest.io
+  domain: murali.domain.com.muralikoripally.stacktest.io
   # We have provisioned and bound services
   services: 
