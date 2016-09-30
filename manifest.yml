@@ -5,4 +5,4 @@ applications:
 # We have reserved a name/route for your app
 - name: helion-hello-node
   host: helion-hello-node
-  domain: murali.domain.com.muralikoripally.stacktest.io
+  domain: kunal.domain.com.sitikantha.stacktest.io
